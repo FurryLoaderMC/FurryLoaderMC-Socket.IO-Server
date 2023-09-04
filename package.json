@@ -1,0 +1,12 @@
+{
+    "name": "FurryLoaderMC-Socket.IO-Server",
+    "version": "0.1.0",
+    "description": "FurryLoaderMC 的 Socket.IO 服务器",
+    "author": "FurryLoaderMC",
+    "private": true,
+    "main": "main.js",
+    "dependencies": {
+        "socket.io": "^4.7.2",
+        "uWebSockets.js": "github:uNetworking/uWebSockets.js#v20.31.0"
+    }
+}

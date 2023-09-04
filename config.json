@@ -1,0 +1,15 @@
+{
+    "address": {
+        "host": "0.0.0.0",
+        "port": 3000
+    },
+    "ssl": {
+        "enable": false,
+        "key_file_name": "./ssl/private.key",
+        "cert_file_name": "./ssl/cert.pem"
+    },
+    "routes": [
+        "/message",
+        "/status"
+    ]
+}
